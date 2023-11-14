@@ -28,12 +28,3 @@ for country in countries:
 # Print the results in alphabetical order of continents
 for continent, population in capitalPopulations.items():
     print(f"{continent}: {population}")
-
-    """ Output:
-    North America: 19120216
-    Africa: 47714282
-    Europe: 51917214
-    Asia: 99542793
-    South America: 28900527
-    Oceania: 1142110
-    """

@@ -16,4 +16,3 @@ continents.sort()
 
 # Print the sorted list of continents
 print(continents) 
-# Output: ['Africa', 'Antarctica', 'Asia', 'Europe', 'North America', 'Oceania', 'South America']

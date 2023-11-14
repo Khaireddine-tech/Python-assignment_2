@@ -17,12 +17,3 @@ for country in countries:
 
 for continent, country in richest.items():
     print(f"{continent}: {country['name']} {country['gnp']}")
-    
-    """ Output: 
-    North America: United States 8510700.0
-    Asia: Japan 3787042.0
-    Africa: South Africa 116729.0
-    Europe: Germany 2133367.0
-    South America: Brazil 776739.0
-    Oceania: Australia 351182.0
-    """
